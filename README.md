@@ -1,11 +1,13 @@
-# Vue.js Appointments App
+# **Vue.js** Pet Appointments
+![Vue.js Pet Appointments Screenshot](https://imgshare.io/images/2022/01/28/Vue-js-Pet-Appointments-Screenshot.png)
 
 ## References
 This project was created from the following sources:
 -  [Vue.js: Building an Interface](https://www.linkedin.com/learning/vue-js-building-an-interface-2) from LinkedIn Learning (former Lynda)
 -  [GitHub Repo](https://github.com/planetoftheweb/vue-essentials)
 
-# vue-interface
+***
+<p>&nbsp;</p>
 
 ## Project setup
 ```
